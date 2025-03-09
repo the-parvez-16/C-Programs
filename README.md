@@ -6,7 +6,7 @@ This repository contains my solutions to various programming problems from platf
 - [LeetCode](https://leetcode.com/)  
 
 ## About  
-- All solutions are written in C.  
+- All solutions are written in C.
 - This repository serves as my personal practice space and a way to track my progress.  
 
 ## How to Use  
